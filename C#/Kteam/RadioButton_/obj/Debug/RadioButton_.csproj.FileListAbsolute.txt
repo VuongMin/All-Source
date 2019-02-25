@@ -1,0 +1,9 @@
+D:\laptrinh\C#\Kteam\RadioButton_\bin\Debug\RadioButton_.exe.config
+D:\laptrinh\C#\Kteam\RadioButton_\bin\Debug\RadioButton_.exe
+D:\laptrinh\C#\Kteam\RadioButton_\bin\Debug\RadioButton_.pdb
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.csprojResolveAssemblyReference.cache
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.Form1.resources
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.Properties.Resources.resources
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.csproj.GenerateResource.Cache
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.exe
+D:\laptrinh\C#\Kteam\RadioButton_\obj\Debug\RadioButton_.pdb

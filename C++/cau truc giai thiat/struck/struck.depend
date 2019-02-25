@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1524989102 source:d:\laptrinh\struck\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+

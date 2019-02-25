@@ -1,0 +1,9 @@
+D:\laptrinh\C#\Kteam\Combobox\bin\Debug\Combobox.exe.config
+D:\laptrinh\C#\Kteam\Combobox\bin\Debug\Combobox.exe
+D:\laptrinh\C#\Kteam\Combobox\bin\Debug\Combobox.pdb
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.csprojResolveAssemblyReference.cache
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.Form1.resources
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.Properties.Resources.resources
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.csproj.GenerateResource.Cache
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.exe
+D:\laptrinh\C#\Kteam\Combobox\obj\Debug\Combobox.pdb

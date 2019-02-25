@@ -1,0 +1,9 @@
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\bin\Debug\TongHopDemoVietNamSon.exe.config
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\bin\Debug\TongHopDemoVietNamSon.exe
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\bin\Debug\TongHopDemoVietNamSon.pdb
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.Form1.resources
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.Properties.Resources.resources
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.csproj.GenerateResource.Cache
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.exe
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.pdb
+D:\laptrinh\C#\Kteam\TongHopDemoVietNamSon\obj\Debug\TongHopDemoVietNamSon.csprojResolveAssemblyReference.cache

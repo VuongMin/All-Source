@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530534983 source:d:\laptrinh\c++\ki_thuat_lap_trinh\bai_tap_ki_thuat_lt\main.cpp
+	<iostream>
+	<math.h>
+
+1530540466 source:d:\laptrinh\c++\ki_thuat_lap_trinh\bai_tap_ki_thuat_lt\minmax.cpp
+	<iostream>
+	<conio.h>
+	<string>
+

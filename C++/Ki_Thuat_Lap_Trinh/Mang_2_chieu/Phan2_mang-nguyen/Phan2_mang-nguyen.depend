@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534588650 source:d:\laptrinh\c++\ki_thuat_lap_trinh\mang_2_chieu\phan2_mang-nguyen\main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<conio.h>
+

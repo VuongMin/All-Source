@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1536135455 source:d:\laptrinh\c++\ki_thuat_lap_trinh\chuoi_ki_tu\text_ham\main.cpp
+	<iostream>
+	<string.h>
+

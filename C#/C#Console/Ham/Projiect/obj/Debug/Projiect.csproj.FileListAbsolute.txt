@@ -1,0 +1,6 @@
+D:\laptrinh\C#\C#Console\Ham\Projiect\bin\Debug\Projiect.exe.config
+D:\laptrinh\C#\C#Console\Ham\Projiect\obj\Debug\Projiect.csprojResolveAssemblyReference.cache
+D:\laptrinh\C#\C#Console\Ham\Projiect\bin\Debug\Projiect.exe
+D:\laptrinh\C#\C#Console\Ham\Projiect\bin\Debug\Projiect.pdb
+D:\laptrinh\C#\C#Console\Ham\Projiect\obj\Debug\Projiect.exe
+D:\laptrinh\C#\C#Console\Ham\Projiect\obj\Debug\Projiect.pdb

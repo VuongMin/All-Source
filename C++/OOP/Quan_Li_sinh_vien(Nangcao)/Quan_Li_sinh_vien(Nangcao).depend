@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1538828028 source:d:\laptrinh\c++\oop\opp\quan_li_sinh_vien(nangcao)\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<vector>
+	<conio.h>
+

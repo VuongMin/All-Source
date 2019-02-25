@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1538220557 source:d:\laptrinh\c++\oop\opp\vecto\nhap_xuat_pushback\main.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	<stdio.h>
+

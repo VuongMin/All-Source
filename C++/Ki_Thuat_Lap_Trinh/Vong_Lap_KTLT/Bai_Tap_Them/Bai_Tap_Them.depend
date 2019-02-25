@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1531543268 source:d:\laptrinh\c++\ki_thuat_lap_trinh\vong_lap_ktlt\bai_tap_them\main.cpp
+	"../../DO_hoa.h"
+	<stdio.h>
+
+1531541333 d:\laptrinh\c++\ki_thuat_lap_trinh\do_hoa.h
+	<conio.h>
+	<Windows.h>
+	<math.h>
+
+1531543924 source:d:\laptrinh\c++\ki_thuat_lap_trinh\vong_lap_ktlt\bai_tap_them\tien_z.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<conio.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1540627521 source:d:\laptrinh\c++\oop\opp\opp_file\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+

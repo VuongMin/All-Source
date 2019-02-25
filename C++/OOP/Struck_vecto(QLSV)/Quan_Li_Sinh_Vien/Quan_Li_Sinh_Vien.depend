@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1538232601 source:d:\laptrinh\c++\oop\opp\struck_vecto(qlsv)\quan_li_sinh_vien\main.cpp
+	"lop.h"
+
+1538229189 d:\laptrinh\c++\oop\opp\struck_vecto(qlsv)\quan_li_sinh_vien\ngay.h
+	<iostream>
+
+1538229773 d:\laptrinh\c++\oop\opp\struck_vecto(qlsv)\quan_li_sinh_vien\sinhvien.h
+	"ngay.h"
+	<string>
+	<stdio.h>
+
+1538231042 d:\laptrinh\c++\oop\opp\struck_vecto(qlsv)\quan_li_sinh_vien\lop.h
+	"sinhvien.h"
+	<vector>
+	<conio.h>
+

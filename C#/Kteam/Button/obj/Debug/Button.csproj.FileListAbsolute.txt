@@ -1,0 +1,2 @@
+D:\laptrinh\C#\Gioi Thieu Constrol\Button\bin\Debug\Button.exe.config
+D:\laptrinh\C#\Kteam\Button\bin\Debug\Button.exe.config

@@ -1,0 +1,8 @@
+D:\laptrinh\C#\Kteam\Image\bin\Debug\Image.exe.config
+D:\laptrinh\C#\Kteam\Image\bin\Debug\Image.exe
+D:\laptrinh\C#\Kteam\Image\bin\Debug\Image.pdb
+D:\laptrinh\C#\Kteam\Image\obj\Debug\Image.csprojResolveAssemblyReference.cache
+D:\laptrinh\C#\Kteam\Image\obj\Debug\Image.Properties.Resources.resources
+D:\laptrinh\C#\Kteam\Image\obj\Debug\Image.csproj.GenerateResource.Cache
+D:\laptrinh\C#\Kteam\Image\obj\Debug\Image.exe
+D:\laptrinh\C#\Kteam\Image\obj\Debug\Image.pdb

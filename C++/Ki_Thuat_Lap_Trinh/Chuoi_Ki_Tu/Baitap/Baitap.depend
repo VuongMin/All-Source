@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1537019260 source:d:\laptrinh\c++\ki_thuat_lap_trinh\chuoi_ki_tu\baitap\main.cpp
+	<iostream>
+	<string.h>
+

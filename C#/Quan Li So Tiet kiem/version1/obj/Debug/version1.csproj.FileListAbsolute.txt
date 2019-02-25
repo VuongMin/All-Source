@@ -1,0 +1,11 @@
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\bin\Debug\version1.exe.config
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\bin\Debug\version1.exe
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\bin\Debug\version1.pdb
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.csprojResolveAssemblyReference.cache
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.Form1.resources
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.Properties.Resources.resources
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.csproj.GenerateResource.Cache
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.exe
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.pdb
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.Upadte.resources
+D:\laptrinh\C#\Quan Li So Tiet kiem\version1\obj\Debug\version1.FrmSearch.resources

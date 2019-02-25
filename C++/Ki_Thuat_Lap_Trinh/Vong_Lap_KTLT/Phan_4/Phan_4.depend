@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1531276997 source:c:\users\administrator\desktop\phan_4\main.cpp
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+
